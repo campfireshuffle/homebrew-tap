@@ -1,6 +1,6 @@
 cask "liftoff" do
-  version "0.1.2"
-  sha256 "46f9d1b85def4249ab7a8c08ca23d88af62c557bdc9456877595d55c46c54e30"
+  version "0.1.3"
+  sha256 "b54c18bb6f2054958ce605c752f7d3650c5e5f87bdeab2150ce3781b982a608e"
 
   url "https://github.com/campfireshuffle/liftoff/releases/download/v#{version}/liftoff-#{version}-macos-arm64.zip"
   name "Liftoff"
