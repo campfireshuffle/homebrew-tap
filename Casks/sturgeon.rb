@@ -1,6 +1,6 @@
 cask "sturgeon" do
-  version "1.0.0"
-  sha256 "815390b0b873358bf90b78c99fed7163ee720c610a9849b6928c2a2ce21a7267"
+  version "1.0.1"
+  sha256 "482fdb16e6ae8a11c844e573349ab8833f71a7a3bca946ef8b6710745578978b"
 
   url "https://github.com/campfireshuffle/sturgeon/releases/download/v#{version}/sturgeon-#{version}-macos-arm64.zip"
   name "Sturgeon"
